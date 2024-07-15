@@ -7,8 +7,7 @@ Mostrar todos os tópicos criados;
 Mostrar um tópico específico;
 Atualizar um tópico;
 Eliminar um tópico.
-É o que conhecemos normalmente como CRUD (CREATE, READ, UPDATE, DELETE)* e é muito parecido com o que desenvolvemos no LiterAlura, mas agora de forma completa, agregando as operações de UPDATE e DELETE, e usando um framework que facilitará muito o nosso trabalho.
-
+É o que conhecemos normalmente como CRUD (CREATE, READ, UPDATE, DELETE)
 
 ## Tecnologias Utilizadas
 * Java 17
