@@ -60,3 +60,10 @@ bash
 Segurança
 A segurança é configurada utilizando Spring Security. O arquivo de configuração está localizado em src/main/java/com/forum/hub/config/SecurityConfig.java.
 
+
+
+![Badge-Spring](https://github.com/user-attachments/assets/3f46145d-1cb2-4e74-9112-e4b97e4845e0)
+
+
+
+
