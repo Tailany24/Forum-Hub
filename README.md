@@ -1,6 +1,13 @@
 # Forum-Hub
 
-Hub é uma aplicação de fórum desenvolvida utilizando Spring Boot para o back-end. Este projeto permite que usuários criem, atualizem, visualizem e excluam postagens e comentários. Além disso, a aplicação possui autenticação de usuário e suporte a CORS.
+Nossa API se concentrará especificamente nos tópicos, e deve permitir aos usuários:
+
+Criar um novo tópico;
+Mostrar todos os tópicos criados;
+Mostrar um tópico específico;
+Atualizar um tópico;
+Eliminar um tópico.
+É o que conhecemos normalmente como CRUD (CREATE, READ, UPDATE, DELETE)* e é muito parecido com o que desenvolvemos no LiterAlura, mas agora de forma completa, agregando as operações de UPDATE e DELETE, e usando um framework que facilitará muito o nosso trabalho.
 
 
 ## Tecnologias Utilizadas
@@ -49,12 +56,6 @@ bash
 * Crie o banco de dados:
 * sql
 
-
-
-## Endpoints da API
-Autenticação
-
-* POST /api/authenticate: Autentica um usuário.
 
 
 Segurança
