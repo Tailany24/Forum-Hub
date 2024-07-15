@@ -56,22 +56,6 @@ Autenticação
 
 * POST /api/authenticate: Autentica um usuário.
 
-Postagens
-
-* GET /api/postagem: Retorna todas as postagens.
-* GET /api/postagem/{id}: Retorna uma postagem específica pelo ID.
-* POST /api/postagem: Cria uma nova postagem.
-* PUT /api/postagem/{id}: Atualiza uma postagem existente.
-* DELETE /api/postagem/{id}: Exclui uma postagem.
-
-Comentários
-
-* GET /api/comentarios: Retorna todos os comentários.
-* GET /api/comentarios/{id}: Retorna um comentário específico pelo ID.
-* POST /api/comentarios: Cria um novo comentário.
-* PUT /api/comentarios/{id}: Atualiza um comentário existente.
-* DELETE /api/comentarios/{id}: Exclui um comentário.
-
 
 Segurança
 A segurança é configurada utilizando Spring Security. O arquivo de configuração está localizado em src/main/java/com/forum/hub/config/SecurityConfig.java.
